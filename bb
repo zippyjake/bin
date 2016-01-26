@@ -129,7 +129,8 @@ names = [
 'tbonegraves',  
 'wywy'
 ]
+pos = 0
 for count in range(126):
-    bb = os.system
-    x = random.choice(names)
-    print(x)
+    name = names[:pos]
+    print(name)
+    pos += 1
