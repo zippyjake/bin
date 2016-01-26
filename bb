@@ -5,5 +5,5 @@ pos = 0
 for count in range(125):
     name = names[pos]
     for count in range(100):
-        print("bux " + name + " 0 -") 
+        os.system("bux " + name + " 0 -") 
     pos += 1
