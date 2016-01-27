@@ -30,7 +30,7 @@ All Users: bb HOW_MANY MESSAGE''')
             for count in range(123):
                 name = names[pos] 
                 for count in range(timesMessUp):
-                    os.system("bux " + name + " 0 " + message) 
+                    print("bux " + name + " 0 " + message) 
                     time.sleep(0.01)
                 pos += 1
         else: 
@@ -39,7 +39,7 @@ All Users: bb HOW_MANY MESSAGE''')
             name = toMessUp
             nameSet = True
             for count in range(timesMessUp):
-                os.system("bux " + toMessUp + " 0 " + message) 
+                print("bux " + toMessUp + " 0 " + message) 
                 time.sleep(0.01)
 
     except KeyboardInterrupt:
@@ -47,5 +47,5 @@ All Users: bb HOW_MANY MESSAGE''')
             print(c.red + "You stopped the program on "+c.green + name+"'s"+c.red+" name."+ c.X)
             exit()
         else:
-            print(c.cl+"dodged a bullet there Mr.!")
+            print("dodged a bullet there Mr.!")
             exit()
