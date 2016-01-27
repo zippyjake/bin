@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+import os
+os.system("cd")
+for count in range(19):
+    os.system("mkdir repos")
