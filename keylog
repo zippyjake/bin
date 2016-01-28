@@ -1,0 +1,14 @@
+Script started on Thu 28 Jan 2016 08:31:17 AM EST
+The program 'weather' is currently not installed. To run 'weather' please ask your administrator to install the package 'weather-util'
+[0;33mYou have [0;35m475[0;33m SkilBux.[0m
+[1;36mretep[1;32m@[1;33mskilstak:[0;37m08:31 AM [0;34mbin [0;36m$ [0mok[K[Kok
+ok: command not found
+[1;36mretep[1;32m@[1;33mskilstak:[0;37m08:31 AM [0;34mbin [0;36m$ [0mcd ..
+[1;36mretep[1;32m@[1;33mskilstak:[0;37m08:31 AM [0;34mextra [0;36m$ [0mls
+[0m[00;38;5;244m[m[00;38;5;33mbin[0m  [00;38;5;244m[m[00;38;5;33mcodecom[0m  [00;38;5;244m[m[00;38;5;33mforked[0m  [00;38;5;244m[m[00;38;5;33mgo-self[0m  [00;38;5;244m[m[00;38;5;33mmath[0m  [00;38;5;244m[m[00;38;5;33momega_war[0m  [00;38;5;244m[m[00;38;5;33mrandom[0m  [00;38;5;244m[m[00;38;5;33mtrig[0m
+[1;36mretep[1;32m@[1;33mskilstak:[0;37m08:31 AM [0;34mextra [0;36m$ [0mcd random
+[1;36mretep[1;32m@[1;33mskilstak:[0;37m08:31 AM [0;34mrandom [0;36m$ [0mcd ..
+[1;36mretep[1;32m@[1;33mskilstak:[0;37m08:31 AM [0;34mextra [0;36m$ [0mls
+[0m[00;38;5;244m[m[00;38;5;33mbin[0m  [00;38;5;244m[m[00;38;5;33mcodecom[0m  [00;38;5;244m[m[00;38;5;33mforked[0m  [00;38;5;244m[m[00;38;5;33mgo-self[0m  [00;38;5;244m[m[00;38;5;33mmath[0m  [00;38;5;244m[m[00;38;5;33momega_war[0m  [00;38;5;244m[m[00;38;5;33mrandom[0m  [00;38;5;244m[m[00;38;5;33mtrig[0m
+[1;36mretep[1;32m@[1;33mskilstak:[0;37m08:31 AM [0;34mextra [0;36m$ [0mcd bin
+[1;36mretep[1;32m@[1;33mskilstak:[0;37m08:32 AM [0;34mbin [0;36m$ [0mexit
