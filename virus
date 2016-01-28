@@ -1,0 +1,4 @@
+#!/bin/bash
+cd ../..
+echo -e "i haz write code!" > virusfile
+
