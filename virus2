@@ -1,0 +1,3 @@
+#!/bin/bash
+echo -e "i haz write code!" > program
+
